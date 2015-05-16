@@ -1,0 +1,24 @@
+{
+  "name": "mapbox-gl_foscam",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cwhite911/mapbox-gl_foscam.git"
+  },
+  "keywords": [
+    "foscam",
+    "webGL",
+    "MapBox"
+  ],
+  "author": "Corey White",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/cwhite911/mapbox-gl_foscam/issues"
+  },
+  "homepage": "https://github.com/cwhite911/mapbox-gl_foscam"
+}

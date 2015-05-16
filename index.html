@@ -15,6 +15,9 @@
 
 <div id='map'></div>
 <script>
+
+document.write("<img src='videostream.cgi?user="+encodeURIComponent(top.user)+"&pwd="+encodeURIComponent(top.pwd)+"' />");
+
 mapboxgl.accessToken = 'pk.eyJ1IjoiY3R3aGl0ZSIsImEiOiItb0dqdUlZIn0.4Zb1DGESXnx0ePxMVLihZQ';
 var videoStyle = {
     "version": 7,
